@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="name_tv">Name:</string>
+    <string name="name_hint">Enter your name </string>
+    <string name="pwd_tv">Password:</string>
+    <string name="pwd_hint">Enter your password </string>
+    <string name="login_btn">Login</string>
+</resources>
